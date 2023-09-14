@@ -1,8 +1,8 @@
 using System;
-using log4net;
 
 namespace dbversion
 {
+    using log4net;
     using System.ComponentModel.Composition;
 
     /// <summary>

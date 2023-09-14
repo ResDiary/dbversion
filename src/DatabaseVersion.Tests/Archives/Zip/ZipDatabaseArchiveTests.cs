@@ -11,11 +11,10 @@ namespace dbversion.Tests.Archives.Zip
     using dbversion.Version;
     using dbversion.Property;
 
-    using Ionic.Zip;
-
     using Moq;
 
     using Xunit;
+    using Ionic.Zip;
 
     public class ZipDatabaseArchiveTests
     {
