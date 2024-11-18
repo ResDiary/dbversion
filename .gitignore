@@ -12,3 +12,4 @@ src/DatabaseVersion.Tests/obj
 *.userprefs
 src/DatabaseVersion.Console.Tests/bin
 src/DatabaseVersion.Console.Tests/obj
+.vs
